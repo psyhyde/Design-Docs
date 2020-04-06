@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="469px" height="115px" viewBox="0 0 469 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Explanation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WordCloud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Identites-and-Connotations" transform="translate(-28.000000, -17.000000)">
+            <g id="Explanation" transform="translate(29.000000, 10.000000)">
+                <text id="The-Identites-and-Co" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="1" y="16">The Identites and Connotations I presumably assigned to the </tspan>
+                    <tspan x="1" y="37">Product</tspan>
+                </text>
+                <text id="Pay-no-attenation-to" font-family="AppleSDGothicNeo-Thin, Apple SD Gothic Neo" font-size="18" font-weight="300" fill="#000000">
+                    <tspan x="1" y="66">Pay no attenation to the topological relation between clusters:</tspan>
+                    <tspan x="1" y="87">There are just no way to represent a multi-demensional relation </tspan>
+                    <tspan x="1" y="108">on 2D surface</tspan>
+                </text>
+                <line x1="1" y1="120" x2="466" y2="120" id="Line" stroke="#C3F3EE" stroke-width="4" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

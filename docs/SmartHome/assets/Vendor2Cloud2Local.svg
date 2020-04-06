@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2048px" height="1440px" viewBox="0 0 2048 1440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Software: Vendor2Cloud2Local</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="990" height="1168" rx="20"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="990" height="1168" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="629" height="1109" rx="20"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="629" height="1109" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="129" height="1017" rx="20"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="129" height="1017" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="129" height="1017" rx="20"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="129" height="1017" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="0" width="129" height="1017" rx="20"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="129" height="1017" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="0" width="143" height="1109" rx="20"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="143" height="1109" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="0" y="0" width="143" height="1109" rx="20"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="143" height="1109" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="27" y="127" width="128" height="819" rx="20"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="128" height="819" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="360" y="127" width="367" height="1136" rx="20"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="367" height="1136" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="429" y="191" width="154" height="1036" rx="20"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="154" height="1036" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+    </defs>
+    <g id="Software:-Vendor2Cloud2Local" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill-opacity="0.6" fill="#B3E5FC" x="0" y="0" width="2048" height="1440"></rect>
+        <g id="Group" transform="translate(884.000000, 1189.000000)">
+            <path d="M0,0 L0,165 C2.02906125e-15,181.568542 13.4314575,195 30,195 L1018,195 C1034.56854,195 1048,181.568542 1048,165 L1048,0 L1048,0" id="Line" stroke="#979797" stroke-width="5" stroke-linecap="square" stroke-dasharray="15"></path>
+            <text id="Raspberry-PI-as-Comp" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="140" y="117">Raspberry PI as Computing Device;</tspan>
+                <tspan x="140" y="146">Raspbian or Other Linux Disturibtion as OS or RTOS(real time OS);</tspan>
+                <tspan x="140" y="175">Gateway: communication Protocol + Module</tspan>
+            </text>
+            <text id="Possibly:" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="29" y="117">Possibly:</tspan>
+            </text>
+        </g>
+        <g id="LocalService" transform="translate(913.000000, 97.000000)">
+            <use id="frame" stroke="#979797" mask="url(#mask-2)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-1"></use>
+            <g id="LogicLayer" transform="translate(19.000000, 29.000000)">
+                <use stroke="#979797" mask="url(#mask-4)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-3"></use>
+                <g id="Modular" transform="translate(303.000000, 65.000000)">
+                    <use id="LogicLayer" stroke="#979797" mask="url(#mask-6)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-5"></use>
+                    <text id="Device-Managment" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                        <tspan x="30.06" y="36">App UI</tspan>
+                    </text>
+                </g>
+                <g id="Modular" transform="translate(162.000000, 65.000000)">
+                    <use id="LogicLayer" stroke="#979797" mask="url(#mask-8)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-7"></use>
+                    <text id="Device-Managment" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                        <tspan x="19.332" y="36">Analytics</tspan>
+                    </text>
+                </g>
+                <g id="Modular" transform="translate(20.000000, 65.000000)">
+                    <use id="LogicLayer" stroke="#979797" mask="url(#mask-10)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-9"></use>
+                    <text id="Device-Managment" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                        <tspan x="30.672" y="36">Device </tspan>
+                        <tspan x="4.848" y="65">Managment</tspan>
+                    </text>
+                </g>
+                <text id="Logic-Layer" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="212.52" y="22">Logic Layer</tspan>
+                </text>
+            </g>
+            <text id="…-…-…" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="60" font-weight="normal" fill="#000000" fill-opacity="0.7">
+                <tspan x="522.55" y="144">…</tspan>
+                <tspan x="522.55" y="216">…</tspan>
+                <tspan x="522.55" y="288">…</tspan>
+            </text>
+            <g id="PresentationLayer" transform="translate(665.000000, 29.000000)">
+                <text id="Presentation-Layer" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="7.672" y="22">Presentation </tspan>
+                    <tspan x="43.84" y="51">Layer</tspan>
+                </text>
+                <use stroke="#979797" mask="url(#mask-12)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-11"></use>
+            </g>
+            <g id="DataLayer" transform="translate(825.000000, 29.000000)">
+                <text id="Data-Layer" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="17.356" y="22">Data Layer</tspan>
+                </text>
+                <use id="PresentationLayer" stroke="#979797" mask="url(#mask-14)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-13"></use>
+            </g>
+            <g id="Group-6" transform="translate(39.000000, 286.000000)">
+                <rect id="Rectangle" fill="#64DD17" x="0" y="0" width="408" height="75" rx="15"></rect>
+                <text id="Nest-Lights" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                    <tspan x="139.484" y="45">Nest Lights</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-8" transform="translate(1589.000000, 482.000000)">
+            <rect id="Rectangle" fill="#FFBB96" x="0" y="0" width="124" height="96" rx="15"></rect>
+            <text id="Alexa-Voice-Service" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="30.356" y="24">Alexa </tspan>
+                <tspan x="30.1535" y="56">Voice </tspan>
+                <tspan x="20.447" y="88">Service</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(1589.000000, 857.000000)">
+            <rect id="Rectangle" fill="#90CAF9" x="0" y="0" width="281" height="75" rx="15"></rect>
+            <text id="Ventilation-Humidity" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="20.944" y="30">Ventilation Humidity </tspan>
+                <tspan x="58.258" y="62">Air-Contiditon</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(964.000000, 857.000000)">
+            <rect id="Rectangle" fill="#90CAF9" x="0" y="0" width="388" height="75" rx="15"></rect>
+            <text id="Ventilation-Humidity" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="49.3205" y="30">Ventilation Humidity Air-</tspan>
+                <tspan x="133.331" y="62">Contiditon</tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(1589.000000, 1114.000000)">
+            <rect id="Rectangle" fill="#BDBDBD" x="0" y="0" width="281" height="75" rx="15"></rect>
+            <text id="DIY-Irrigation" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="64.0765" y="24">DIY Irrigation </tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(964.000000, 1114.000000)">
+            <rect id="Rectangle" fill="#BDBDBD" x="0" y="0" width="388" height="75" rx="15"></rect>
+            <text id="DIY-Irrigation-Syste" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="72.433" y="45">DIY Irrigation System</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(1589.000000, 678.000000)">
+            <rect id="Rectangle" fill="#FBC02D" x="0" y="0" width="281" height="137" rx="15"></rect>
+            <text id="Smart-Door+-Window-M" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="16.7185" y="24">Smart Door+ Window </tspan>
+                <tspan x="97.246" y="56">Module </tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(964.000000, 678.000000)">
+            <rect id="Rectangle" fill="#FBC02D" x="0" y="0" width="388" height="137" rx="15"></rect>
+            <text id="Smart-Door+-Window-M" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="23.414" y="24">Smart Door+ Window Module </tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(1589.000000, 385.000000)">
+            <rect id="Rectangle" fill="#64DD17" x="0" y="0" width="281" height="75" rx="15"></rect>
+            <text id="Nest-Lights" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="75.984" y="29">Nest Lights</tspan>
+            </text>
+        </g>
+        <use id="frame" stroke="#979797" mask="url(#mask-16)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-15"></use>
+        <use id="frame" stroke="#979797" mask="url(#mask-18)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-17"></use>
+        <text id="Local-Service-End" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="48" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="913" y="54">Local Service End</tspan>
+        </text>
+        <text id="Encydia-Cloud" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="48" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="410" y="54">Encydia Cloud</tspan>
+        </text>
+        <text id="Device+ServiceVendor" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="48" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="27" y="54">Device+Service</tspan>
+            <tspan x="27" y="111">Vendor</tspan>
+        </text>
+        <use id="frame" stroke="#979797" mask="url(#mask-20)" stroke-width="10" stroke-dasharray="15,10" xlink:href="#path-19"></use>
+        <g id="Group-2" transform="translate(310.000000, 191.000000)">
+            <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="99" height="1034" rx="20"></rect>
+            <text id="IDE,-SDK,-API,-Docs" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="36" font-weight="normal" fill="#000000" fill-opacity="0.7">
+                <tspan x="19.67" y="32">IDE, </tspan>
+                <tspan x="14.648" y="75">SDK, </tspan>
+                <tspan x="20.426" y="118">API, </tspan>
+                <tspan x="13.118" y="161">Docs</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(638.000000, 192.000000)">
+            <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="119" height="1034" rx="20"></rect>
+            <text id="Downsized-Vendor-Dev" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.7">
+                <tspan x="4.968" y="22">Downsized</tspan>
+                <tspan x="23.268" y="51">Vendor </tspan>
+                <tspan x="26.172" y="80">Device </tspan>
+                <tspan x="29.784" y="109">Based </tspan>
+                <tspan x="17.436" y="138">Modules</tspan>
+                <tspan x="102.564" y="138" font-size="36"></tspan>
+                <tspan x="60" y="167" font-size="36"></tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(638.000000, 678.000000)">
+            <rect id="Rectangle" fill="#FBC02D" x="0" y="0" width="120" height="137" rx="15"></rect>
+            <text id="Smart-Door+-Window-M" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="25.926" y="24">Smart </tspan>
+                <tspan x="24.684" y="56">Door+ </tspan>
+                <tspan x="12.7095" y="88">Window </tspan>
+                <tspan x="16.746" y="120">Module </tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(638.000000, 390.000000)">
+            <rect id="Rectangle" fill="#64DD17" x="0" y="0" width="120" height="75" rx="15"></rect>
+            <text id="Nest-Module" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="33.459" y="29">Nest </tspan>
+                <tspan x="16.746" y="61">Module</tspan>
+            </text>
+        </g>
+        <g id="arrows/arrow-1" transform="translate(759.000000, 315.000000)">
+            <g id="arrow-1">
+                <line x1="0" y1="16.5" x2="134.5" y2="16.5" id="Line" stroke="#1787E0" stroke-width="5" stroke-linecap="square"></line>
+                <polygon id="Triangle" fill="#1787E0" points="134 33 134 0 154 16.5"></polygon>
+            </g>
+        </g>
+        <text id="Distribution" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="773.256" y="308">Distribution</tspan>
+        </text>
+        <g id="arrows/arrow-1" transform="translate(582.000000, 624.000000)" stroke="#1787E0" stroke-linecap="square" stroke-width="5">
+            <g id="arrow-1">
+                <path d="M0,37 L31.5572813,37 C41.7721518,37 50.0529405,28.7195144 50.0529405,18.5 L50.0529405,18.5 C50.0529405,8.28273213 58.338133,1.07958348e-14 68.5458761,7.8707272e-15 L176.702597,-2.3122416e-14 C186.915963,-2.60491349e-14 195.195533,8.28048563 195.195533,18.5 L195.195533,18.5 C195.195533,28.7172679 203.476783,37 213.701663,37 L330.844444,37" id="Line"></path>
+            </g>
+        </g>
+        <text id="Encydia-Cloud-Servic" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="800.356" y="584">Encydia </tspan>
+            <tspan x="810.628" y="613">Cloud </tspan>
+            <tspan x="803.272" y="642">Service</tspan>
+        </text>
+        <text id="Encydia-Cloud-Servic" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="36" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="447.784" y="250">Encydia </tspan>
+            <tspan x="463.192" y="293">Cloud </tspan>
+            <tspan x="444.688" y="336">Services</tspan>
+        </text>
+        <g id="Group-6" transform="translate(446.000000, 390.000000)">
+            <rect id="Rectangle" fill="#64DD17" x="0" y="0" width="120" height="75" rx="15"></rect>
+            <text id="Nest-Lights" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="33.459" y="29">Nest </tspan>
+                <tspan x="25.0755" y="61">Lights</tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(31.000000, 390.000000)">
+            <rect id="Rectangle" fill="#64DD17" x="0" y="0" width="120" height="75" rx="15"></rect>
+            <text id="Nest" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="33.459" y="45">Nest </tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(27.000000, 678.000000)">
+            <rect id="Rectangle" fill="#FBC02D" x="0" y="0" width="124" height="137" rx="15"></rect>
+            <text id="Smart-Door+-Window-V" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="27.926" y="24">Smart </tspan>
+                <tspan x="26.684" y="56">Door+ </tspan>
+                <tspan x="14.7095" y="88">Window </tspan>
+                <tspan x="19.826" y="120">Vendor </tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(27.000000, 852.000000)">
+            <rect id="Rectangle" fill="#90CAF9" x="0" y="0" width="124" height="75" rx="15"></rect>
+            <text id="VHAC-Vendor" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="28.385" y="29">VHAC </tspan>
+                <tspan x="19.826" y="61">Vendor</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(27.000000, 482.000000)">
+            <rect id="Rectangle" fill="#FFBB96" x="0" y="0" width="124" height="96" rx="15"></rect>
+            <text id="Alexa-Voice-Service" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="30.356" y="24">Alexa </tspan>
+                <tspan x="30.1535" y="56">Voice </tspan>
+                <tspan x="20.447" y="88">Service</tspan>
+            </text>
+        </g>
+        <g id="arrows/arrow-1" transform="translate(155.000000, 645.000000)">
+            <g id="arrow-1">
+                <line x1="0" y1="16.5" x2="134.5" y2="16.5" id="Line" stroke="#1787E0" stroke-width="5" stroke-linecap="square"></line>
+                <polygon id="Triangle" fill="#1787E0" points="134 33 134 0 154 16.5"></polygon>
+            </g>
+        </g>
+        <text id="Publish" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="192.104" y="638">Publish</tspan>
+        </text>
+        <text id="Developer-Community" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="36" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="27" y="1220">Developer </tspan>
+            <tspan x="27" y="1263">Community</tspan>
+        </text>
+        <g id="arrows/arrow-1" transform="translate(147.000000, 1132.000000)">
+            <g id="arrow-1">
+                <line x1="0" y1="16.5" x2="143.466667" y2="16.5" id="Line" stroke="#1787E0" stroke-width="5" stroke-linecap="square"></line>
+                <polygon id="Triangle" fill="#1787E0" points="143 33 143 0 163 16.5"></polygon>
+            </g>
+        </g>
+        <text id="Publish" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.7">
+            <tspan x="193.104" y="1124">Publish</tspan>
+        </text>
+        <g id="Community" transform="translate(49.000000, 1108.000000)" fill="#000000" fill-rule="nonzero">
+            <rect id="Rectangle" opacity="0" x="0" y="0" width="80" height="80"></rect>
+            <path d="M33.3333334,20 C33.3333334,23.6818983 36.3181017,26.6666666 40,26.6666666 C43.6818983,26.6666666 46.6666666,23.6818983 46.6666666,20 C46.6666666,17.6182294 45.3960072,15.4173825 43.3333334,14.2264972 C41.2706595,13.0356118 38.7293405,13.0356118 36.6666666,14.2264972 C34.6039928,15.4173825 33.3333334,17.6182294 33.3333334,20 L33.3333334,20 Z" id="Path"></path>
+            <path d="M8.88888891,26.6666666 C8.88888891,29.0484373 10.1595483,31.2492841 12.2222222,32.4401694 C14.284896,33.6310547 16.826215,33.6310547 18.8888889,32.4401694 C20.9515627,31.2492841 22.2222222,29.0484373 22.2222222,26.6666666 C22.2222222,24.284896 20.9515627,22.0840492 18.8888889,20.8931639 C16.826215,19.7022786 14.284896,19.7022786 12.2222222,20.8931639 C10.1595483,22.0840492 8.88888891,24.284896 8.88888891,26.6666666 L8.88888891,26.6666666 Z" id="Path"></path>
+            <path d="M57.7777778,26.6666666 C57.7777778,30.348565 60.7625461,33.3333333 64.4444445,33.3333333 C68.1263428,33.3333333 71.1111111,30.348565 71.1111111,26.6666666 C71.1111111,24.284896 69.8404517,22.0840491 67.7777778,20.8931637 C65.715104,19.7022784 63.1737849,19.7022784 61.1111111,20.8931637 C59.0484372,22.0840491 57.7777778,24.284896 57.7777778,26.6666666 L57.7777778,26.6666666 Z" id="Path"></path>
+            <path d="M64.4444445,37.7777778 C62.4444445,37.7777778 60.6666666,38.4444445 58.8888889,39.3333334 L40,50.4444445 L21.1111111,39.3333334 C19.3333333,38.4444445 17.5555555,37.7777778 15.5555555,37.7777778 C9.33333336,37.7777778 4.44444445,42.6666667 4.44444445,48.8888889 L4.44444445,66.6666666 L26.6666666,66.6666666 L26.6666666,52.8888889 L37.7777778,59.5555555 C38.2222223,59.7777778 38.4444445,60 38.8888889,60 C39.3333334,60 39.5555555,60.2222222 40,60.2222222 C40.4444445,60.2222222 40.6666666,60.2222222 41.1111111,60 C41.5555555,60 41.7777777,59.7777778 42.2222222,59.5555555 L53.3333334,52.8888889 L53.3333334,66.6666666 L75.5555555,66.6666666 L75.5555555,48.8888889 C75.5555555,42.6666667 70.6666666,37.7777778 64.4444445,37.7777778 Z" id="Path"></path>
+            <path d="M40,45.3333334 L50.6666666,39.1111111 C49.3333334,34.6666666 45.1111111,31.3333334 40,31.3333334 C34.8888889,31.3333334 30.8888889,34.6666667 29.3333334,39.1111111 L40,45.3333334 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

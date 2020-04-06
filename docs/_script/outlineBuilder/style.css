@@ -1,0 +1,132 @@
+/*markdown_box*/
+html{
+	background: #F4F6F9; 
+	font-family:"Microsoft YaHei", "微软雅黑", Arial; 
+	font-weight: 300
+}
+body{
+	background:#F4F6F9;
+	font-size: 16px; 
+	color: #515254; 
+	line-height: 188%; 
+	margin: 0 !important; 
+	padding: 0 !important;
+}
+.html_header{
+	display:block; height: 60px; 
+	line-height: 46px; 
+	border-bottom: 1px solid #E6ECF1; 
+	text-align: left !important;
+}
+.html_header span::after{
+	content: "Psyhyde";
+	font-size: 17px; 
+	font-weight: bold;
+}
+.html_header span::before{
+	content: "❖"; 
+	font-size: 19px; 
+	font-weight: bold; 
+	margin:0 8px 0 5px;
+	color: #db4d52
+}
+
+img{
+	border-radius:5px;
+	margin:30px 0 46px !important;
+	width:70%;
+}
+
+#write{
+	margin:0px 20px 50px 260px; 
+	padding: 20px 200px 20px 60px;
+	background: #fff;
+	border: 1px solid #E6ECF1; 
+	box-shadow: 0 2px 8px rgba(116, 129, 141, .08); 
+	border-radius: 0px
+}
+
+.BlogAnchor {
+	width: 260px !important
+}
+
+/*导航*/
+.BlogAnchor {
+    background: #fff;
+    padding: 10px 0 ;
+    line-height: 180%;
+    position: fixed;
+    height: 100%;
+    width: 200px;
+    left: 0;
+    top: 0;
+    border-right: 1px solid #E6ECF1;
+
+}
+.BlogAnchor p {
+    font-size: 20px;
+    color: #444;
+    margin: 0 16px;
+    text-align: center;
+}
+.BlogAnchor .AnchorContent {
+    padding: 5px 0px;
+    overflow: auto;
+}
+.BlogAnchor li{
+    text-indent: 1.5rem;
+    font-size: 14px;
+    list-style: none;
+    padding: 0 0px;
+}
+.BlogAnchor li .nav_item{
+    padding:3px 16px;
+
+}
+
+
+.BlogAnchor li .item_h1{
+    margin-left: 0rem;
+    padding-left:3px;
+    font-weight: bold;
+}
+.BlogAnchor li .item_h2{
+    margin-left: 0;
+    font-size: 0.9rem;
+    padding-left: 18px;
+    color: #272822
+}
+.BlogAnchor li .item_h3{
+    margin-left: 0;
+    font-size: 0.8rem;
+    padding-left: 36px;
+    color: #708090
+}
+.BlogAnchor li .nav_item.current{
+    color: #087cd2;
+    background-color: rgba(238,242,249,.8);
+    border-left:4px solid #087cd2;
+    text-indent: 20px;
+    font-weight: bold;
+
+}
+#AnchorContentToggle {
+    font-size: 13px;
+    font-weight: normal;
+    color: #FFF;
+    display: inline-block;
+    line-height: 20px;
+    background: rgb(7,196,189);
+    font-style: normal;
+    padding: 1px 8px;
+}
+.BlogAnchor a:hover {
+    color: #087cd2  ;
+    background:rgba(238,242,249,.5);
+}
+.BlogAnchor a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    border-radius: 0px;
+}

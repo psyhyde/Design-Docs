@@ -1,0 +1,5 @@
+添加以下js、css到md中，导出HTML即可生成大纲
+
+<script type="text/javascript" src="https://yankeyon.gitee.io/_script/outlineBuilder/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://yankeyon.gitee.io/_script/outlineBuilder/2html.js"></script>
+<link rel="stylesheet" type="text/css" href="https://yankeyon.gitee.io/_script/outlineBuilder/style.css">

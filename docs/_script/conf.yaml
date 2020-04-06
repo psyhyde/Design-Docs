@@ -1,0 +1,15 @@
+# 本地Blog路径
+BlogLocalPath: 'E:/Blog/KeyonBlog/'
+# 远程仓库Blog路径
+BlogRepoPath: 'http://yankeyon.gitee.io/keyonblog/#/'
+#忽略名单
+ignoreList:
+  - '.git'
+  - '_media'
+  - '_script'
+  - '.nojekyll'
+  - 'coverpage.md'
+  - 'index.html'
+  - 'navbar.md'
+  - 'README.md'
+  - 'Doc'
