@@ -11,7 +11,7 @@ Wechat ID: psyhydex
 > - [Encydia Smart Home Design](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2019-12 </small> 	
 > - [Encydia Smart Home Device Design](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-01 </small>
 > - [Encydia Visual Automation Builder](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-02 </small> 
-> - [Encydia Home Concise Illustration](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-03 </small>
+> - [Encydia Home Concise Illustration ⭐️](/SmartHome/Encydia-Home-Concise-Illustration.md) <small>2020-03 </small>
 > - [Graphic Workflow Builder](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-04 </small>   
 > <!-- TIP:end -->
 
@@ -28,7 +28,7 @@ Wechat ID: psyhydex
 - [Encydia Visual Automation Builder](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-02 </small> 
 ![EncydiaVPLPreview](_media/previewImg/EncydiaVPLPreview.png "Preview")
 
-- [Encydia Home Concise Illustration](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-03 </small>   
+- [Encydia Home Concise Illustration](/SmartHome/Encydia-Home-Concise-Illustration.md) <small>2020-03 </small>   
 
 ### IDE GUI Design
 - [Low Code IDE Research & Analysis](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-03 </small> 

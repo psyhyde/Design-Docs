@@ -24,12 +24,19 @@
       coverpage: '_coverpage.md',
       homepage: 'README.md',
       loadSidebar: false,
-      auto2top: true,
+      auto2top: true,   
       search: {
         paths: 'auto',
         placeholder: '   🔍 Type to search ',
         noData: 'No Results! 😞',
       },
+      //word count
+      count:{
+    countable:true,
+    fontsize:'1.2em',
+    color:'rgb(60,60,60)',
+    language:'english'
+  },
       plugins: [
     function(hook) {
       var footer = [
@@ -66,6 +73,9 @@
   <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  
+  
  
 </body>
 

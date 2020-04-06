@@ -10,5 +10,5 @@
 [GitHub](https://github.com/psyhyde/docs)
 [Get Started](README.md)
 
-![color](#202020)
+
 
