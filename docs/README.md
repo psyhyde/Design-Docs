@@ -48,9 +48,9 @@ Wechat ID: psyhydex
 - [System Design Principles]() <small>20XX </small>
 
 ### Past Work Projects 💼
-- [西安电子政务，华数传媒 👎]() <small>2019-06 to 2019-09 </small> 
-- [Mobile Car Inquiry App, TD Banking Group 👍]() <small>2017-11 to 2018-06 </small> 
-- [Digital Wallet Mobile App, TD Banking Group 👍]() <small>2017-05 to 2018-10 </small> 
+- [西安电子政务，华数传媒 ]() <small>2019-06 to 2019-09 </small> 
+- [Mobile Car Inquiry App, TD Banking Group ]() <small>2017-11 to 2018-06 </small> 
+- [Digital Wallet Mobile App, TD Banking Group ]() <small>2017-05 to 2018-10 </small> 
 - [Insurance CRM, TD Banking Group]() <small>2017-05 to 2018-10 </small> 
 
 ### Other Rss
