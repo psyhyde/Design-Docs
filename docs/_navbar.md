@@ -1,7 +1,7 @@
 * [Home](README.md "Content Table")
 
 * Other Repo
-  * [Dribbble]()
-  * [Behance]()
+  * [Dribbble](https://dribbble.com/psyhyde)
+  * [Behance](https://www.behance.net/hydeluo)
 
 
