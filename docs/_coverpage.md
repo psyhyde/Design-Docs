@@ -7,7 +7,7 @@
 - <small>Smart Home, Low-code IDE, Workflow, Business Application</small>
 
 
-[GitHub](https://github.com/psyhyde/docs)
+[GitHub](https://github.com/psyhyde/)
 [Get Started](README.md)
 
 

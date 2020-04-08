@@ -40,6 +40,7 @@ Wechat ID: psyhydex
 ![Car Info-tainment System Research&Analysis ⭐️](ConsumerApp/CarUX/preview.png "Preview")
 
 ### UX & UI Methodology 
+- [Motion and Animation in UXUI](/UX/MotionAndAnimationInUXUI.md) <small>2017 </small> 
 - [Web and Mobile Grid System](/UX/) <small>2018 </small> 
 
 ### System Design Methodolgy
