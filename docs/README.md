@@ -8,17 +8,18 @@ Wechat ID: psyhydex
 ## Recent Projects
  
 > [!TIP|label:Posts]
+> - [Conversational Interaction: History, Chatbot Design Aspects, NPL Model ⭐️](/Chatbot/ConversationalInteractionNote.md) <small>2020-04 </small> 
+> - [Encydia Home Concise Illustration ⭐️](/SmartHome/Encydia-Home-Concise-Illustration.md)   -[Bēhance](https://www.behance.net/gallery/94936929/Encydia-Home-System)<small> 2020-03 </small>
 > - [Encydia Smart Home Design ⭐️](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2019-12 </small> 	
 > - [Encydia Smart Home Device Design](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-01 </small>
 > - [Encydia Visual Automation Builder](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-02 </small> 
-> - [Encydia Home Concise Illustration ⭐️](/SmartHome/Encydia-Home-Concise-Illustration.md)   -[Bēhance](https://www.behance.net/gallery/94936929/Encydia-Home-System)<small> 2020-03 </small>
 > - [Graphic Workflow Builder](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-04 </small>   
 > <!-- TIP:end -->
 
 
 ## Content Table
 
-### Smart Home Design
+### Smart Home
 - [Encydia Smart Home Design](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2019-12 </small>
 ![EncydiaHomePreview](_media/previewImg/EncydiaHomePreview.png "Preview")
 
@@ -28,9 +29,12 @@ Wechat ID: psyhydex
 - [Encydia Visual Automation Builder](/SmartHome/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-02 </small> 
 ![EncydiaVPLPreview](_media/previewImg/EncydiaVPLPreview.png "Preview")
 
-- [Encydia Home Concise Illustration](/SmartHome/Encydia-Home-Concise-Illustration.md) <small>2020-03 </small>   
+- [Encydia Home Concise Illustration](/SmartHome/Encydia-Home-Concise-Illustration.md) <small>2020-03 </small>  
 
-### IDE GUI Design
+### Chatbot
+- [Conversational Interaction: History, Chatbot Design Aspects, NPL Model ⭐️](/Chatbot/ConversationalInteractionNote.md) <small>2020-04 </small> 
+
+### IDE GUI
 - [Low Code IDE Research & Analysis](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-03 </small> 
 - [App Maker Platform Top Level Design](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-05 </small> 
 - [Graphic Workflow Builder](/IDE/Encydia_Home_Analysis_Concept_Architecture_UIUX_Design.md) <small>2020-04 </small> 
@@ -44,7 +48,8 @@ Wechat ID: psyhydex
 - [Web and Mobile Grid System](/UX/) <small>2018 </small> 
 
 ### System Design Methodolgy
-- [UML Tutorial ⭐️](/SystemDesign/UML.md) <small>20XX </small> 
+- [UML Tutorial ⭐️](/SystemDesign/UML.md) <small>UML is almost a lost craft. I love it and wanna retain its vitality ♥️ </small> 
+   
 - [Workflow Analysis]() <small>20XX </small> 
 - [System Design Principles]() <small>20XX </small>
 
