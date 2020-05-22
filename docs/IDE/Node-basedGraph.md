@@ -2,13 +2,15 @@
 
 ---
 
-Tags: Visual IDE, Visual Scripting, System Modeling Language, Visual Modeling, Graph Theory, Dependency Graph, Flow Diagram, Event Driven Flow, Interaction Composer
+Tags: Visual IDE, Visual Scripting, System Modeling Language, Visual Modeling, Graph Theory, Structured Diagram, Dependency Graph, Flow Diagram, Event Driven Flow, Interaction Composer
 
 ---
 
+## Preliminary Name
 
+Well, it is tricky. I don't wanna make it commercial. 
 
-
+Let's 
 
 
 
@@ -29,3 +31,9 @@ Tags: Visual IDE, Visual Scripting, System Modeling Language, Visual Modeling, G
 1. Draw.io self-hosting
 
 2. Node-Red 
+
+
+
+
+
+Slinky Elegant
